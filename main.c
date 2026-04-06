@@ -5,7 +5,7 @@ int add(int a, int b) {
 }
 
 int main() {
-    printf("Simple Calculator\n");
+    printf("Basic  Calculator\n");
     printf("Add: %d\n", add(5, 3));
     return 0;
 }
